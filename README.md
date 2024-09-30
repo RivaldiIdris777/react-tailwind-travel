@@ -1,8 +1,12 @@
-# React + Vite
+# React Tailwind TravelWeb
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Template landing page React Talwind TravelWeb
 
-Currently, two official plugins are available:
+Screenshot Web
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![alt text](https://github.com/RivaldiIdris777/laravel_role_permission_management/blob/main/public/upload/sc_app/login.png?raw=true)
+
+- Jalankan perintah di cmd/terminal: `git clone + link repo`
+- selanjutnya jalankan perintah cmd : `npm install`
+- selanjutnya jalankan perintah: `npm run dev`
+
